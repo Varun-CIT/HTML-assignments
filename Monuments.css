@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Monuments of India</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>India-Where History Roars</h1>
+  </header>
+<section>
+    <div class="hero-content">
+    <h1>Monuments that Mesmerize!</h1>
+    <p>Discover India's Timeless Treasures</p></div>
+</section>
+
+  <section class="movie-grid">
+    <div class="movie-card">
+      <img src="https://th.bing.com/th/id/R.2c4dabaa9bd0b9b1ad85fa17561c287e?rik=gJmw1Syz7VfYGQ&riu=http%3a%2f%2fstoriesofraku.com%2fwp-content%2fuploads%2f2022%2f11%2fTaj-Mahal-scenic-picture-1024x730.jpeg&ehk=cAc5M%2by9mGAg6kC8N5nSRBt48GHzw5u%2bhIHvg6Npifw%3d&risl=&pid=ImgRaw&r=0"
+      alt="Taj Mahal">
+      <h2>A Symbol of Love</h2>
+<a href="movie1.html"><button class="watch-button">Explore</button></a>
+
+</div>
+    </div>
+    <div class="movie-card">
+      <img src="https://avanigo.com/wp-content/uploads/2021/01/The-Scenic-Shore-Temple-of-Mahabalipuram.jpg" alt="The Shore Temple">
+      <h2> Echoes of Stone, Whispers of the Sea.</h2>
+    <a href="movie2.html"><button class="watch-button">Explore</button></a>
+    </div>
+    <div class="movie-card">
+      <img src="https://3.bp.blogspot.com/-TPzekdsDnWA/UE8mdi1dXlI/AAAAAAAAABI/JC9t0MY5OoM/s1600/lotus_temple_delhi_at_night__new_delhi__india.jpg" alt="Lotus Temple">
+      <h2>A bloom of peace and unity</h2>
+      <a href="movie3.html"><button class="watch-button">Explore</button></a>
+    </div>
+    <div class="movie-card">
+      <img src="https://c1.staticflickr.com/3/2350/2500479380_310e173d56_b.jpg alt="Char Minar">
+      <h2> Four pillars, infinite stories!</h2>
+      <a href="movie4.html"><button class="watch-button">Explore</button></a>
+    </div>
+    <div class="movie-card">
+      <img src="https://images.hindustantimes.com/img/2021/02/05/1600x900/24d6db7c-6645-11eb-9024-f0893c954548_1612522413279.jpg" alt="Victoria memorial">
+      <h2> Echoing the grandeur of Queen Victoria’s reign!</h2>
+      <a href="movie5.html"><button class="watch-button">Explore</button></a>
+    </div>
+  </section>
+    <footer class="footer">
+    <p>&copy; Virtual tour collection. All rights reserved.</p>
+    <p>Follow us on <a href="https://twitter.com" target="_blank">Twitter</a> | <a href="https://facebook.com" target="_blank">Facebook</a> | <a href="https://instagram.com" target="_blank">Instagram</a></p>
+  </footer>
+</body>
+</html>
